@@ -9,6 +9,8 @@ declare module 'styled-components' {
         colors: {
             main: string;
             secondary: string;
+            grey:string;
+            purple:string;
         };
     }
 }
